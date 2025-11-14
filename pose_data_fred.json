@@ -1,0 +1,767 @@
+[
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_0": {
+            "x": -0.292809299374278,
+            "y": -0.41098848713242114,
+            "z": 0.5808363094478847,
+            "Rx": 1.2866970891644942,
+            "Ry": -1.0796670529547583,
+            "Rz": -1.0796670529548151
+        },
+        "TargetPose_0_Speed": 0.1,
+        "TargetPose_0_Acceleration": 1.0,
+        "MotionType": "Linear",
+        "GripperCmd": "None"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_1": {
+            "x": -0.292809299374278,
+            "y": -0.41098848713242114,
+            "z": 0.4808363094478847,
+            "Rx": 1.2866970891644942,
+            "Ry": -1.0796670529547583,
+            "Rz": -1.0796670529548151
+        },
+        "TargetPose_1_Speed": 0.062,
+        "TargetPose_1_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_2": {
+            "x": -0.3922748824285111,
+            "y": -0.4285269530767815,
+            "z": 0.4808363094478848,
+            "Rx": 1.2866970891644938,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_2_Speed": 0.062,
+        "TargetPose_2_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_3": {
+            "x": -0.29342323839412277,
+            "y": -0.40750666593082135,
+            "z": 0.477300775541952,
+            "Rx": 1.2866970891644942,
+            "Ry": -1.0796670529547583,
+            "Rz": -1.0796670529548151
+        },
+        "TargetPose_3_Speed": 0.062,
+        "TargetPose_3_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_4": {
+            "x": -0.39288882144835635,
+            "y": -0.4250451318751814,
+            "z": 0.47730077554195227,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_4_Speed": 0.062,
+        "TargetPose_4_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_5": {
+            "x": -0.29403717741396757,
+            "y": -0.40402484472922107,
+            "z": 0.47376524163601935,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547585,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_5_Speed": 0.062,
+        "TargetPose_5_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_6": {
+            "x": -0.39350276046820115,
+            "y": -0.4215633106735813,
+            "z": 0.47376524163601946,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_6_Speed": 0.062,
+        "TargetPose_6_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_7": {
+            "x": -0.29465111643381214,
+            "y": -0.4005430235276212,
+            "z": 0.4702297077300866,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547585,
+            "Rz": -1.0796670529548151
+        },
+        "TargetPose_7_Speed": 0.062,
+        "TargetPose_7_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_8": {
+            "x": -0.39411669948804595,
+            "y": -0.41808148947198115,
+            "z": 0.4702297077300867,
+            "Rx": 1.2866970891644938,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_8_Speed": 0.062,
+        "TargetPose_8_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_9": {
+            "x": -0.2952650554536576,
+            "y": -0.397061202326021,
+            "z": 0.46669417382415396,
+            "Rx": 1.2866970891644942,
+            "Ry": -1.0796670529547583,
+            "Rz": -1.0796670529548151
+        },
+        "TargetPose_9_Speed": 0.062,
+        "TargetPose_9_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_10": {
+            "x": -0.3947306385078909,
+            "y": -0.4145996682703809,
+            "z": 0.46669417382415396,
+            "Rx": 1.2866970891644938,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_10_Speed": 0.062,
+        "TargetPose_10_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_11": {
+            "x": -0.2958789944735022,
+            "y": -0.3935793811244209,
+            "z": 0.4631586399182211,
+            "Rx": 1.2866970891644942,
+            "Ry": -1.0796670529547583,
+            "Rz": -1.0796670529548151
+        },
+        "TargetPose_11_Speed": 0.062,
+        "TargetPose_11_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_12": {
+            "x": -0.3953445775277355,
+            "y": -0.41111784706878074,
+            "z": 0.4631586399182212,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_12_Speed": 0.062,
+        "TargetPose_12_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_13": {
+            "x": -0.296492933493347,
+            "y": -0.3900975599228207,
+            "z": 0.4596231060122883,
+            "Rx": 1.2866970891644942,
+            "Ry": -1.0796670529547583,
+            "Rz": -1.0796670529548151
+        },
+        "TargetPose_13_Speed": 0.062,
+        "TargetPose_13_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_14": {
+            "x": -0.3959585165475801,
+            "y": -0.40763602586718095,
+            "z": 0.4596231060122883,
+            "Rx": 1.2866970891644938,
+            "Ry": -1.0796670529547585,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_14_Speed": 0.062,
+        "TargetPose_14_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_15": {
+            "x": -0.2971068725131918,
+            "y": -0.38661573872122085,
+            "z": 0.45608757210635564,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547585,
+            "Rz": -1.0796670529548151
+        },
+        "TargetPose_15_Speed": 0.062,
+        "TargetPose_15_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_16": {
+            "x": -0.3965724555674251,
+            "y": -0.4041542046655808,
+            "z": 0.45608757210635575,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547585,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_16_Speed": 0.062,
+        "TargetPose_16_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_17": {
+            "x": -0.2977208115330368,
+            "y": -0.38313391751962056,
+            "z": 0.4525520382004229,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547585,
+            "Rz": -1.0796670529548151
+        },
+        "TargetPose_17_Speed": 0.062,
+        "TargetPose_17_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_18": {
+            "x": -0.39718639458727034,
+            "y": -0.40067238346398076,
+            "z": 0.4525520382004229,
+            "Rx": 1.2866970891644938,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_18_Speed": 0.062,
+        "TargetPose_18_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_19": {
+            "x": -0.2983347505528816,
+            "y": -0.37965209631802077,
+            "z": 0.44901650429449014,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_19_Speed": 0.062,
+        "TargetPose_19_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_20": {
+            "x": -0.39780033360711514,
+            "y": -0.39719056226238036,
+            "z": 0.44901650429449025,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_20_Speed": 0.062,
+        "TargetPose_20_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_21": {
+            "x": -0.29894868957272636,
+            "y": -0.3761702751164205,
+            "z": 0.44548097038855733,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547585,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_21_Speed": 0.062,
+        "TargetPose_21_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_22": {
+            "x": -0.3984142726269592,
+            "y": -0.3937087410607805,
+            "z": 0.44548097038855744,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_22_Speed": 0.062,
+        "TargetPose_22_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_23": {
+            "x": -0.2995626285925719,
+            "y": -0.3726884539148205,
+            "z": 0.4419454364826246,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547585,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_23_Speed": 0.062,
+        "TargetPose_23_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_24": {
+            "x": -0.39902821164680496,
+            "y": -0.39022691985918007,
+            "z": 0.4419454364826247,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547585,
+            "Rz": -1.0796670529548151
+        },
+        "TargetPose_24_Speed": 0.062,
+        "TargetPose_24_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_25": {
+            "x": -0.3001765676124162,
+            "y": -0.3692066327132202,
+            "z": 0.4384099025766917,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_25_Speed": 0.062,
+        "TargetPose_25_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_26": {
+            "x": -0.39964215066664976,
+            "y": -0.3867450986575801,
+            "z": 0.43840990257669193,
+            "Rx": 1.2866970891644942,
+            "Ry": -1.0796670529547585,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_26_Speed": 0.062,
+        "TargetPose_26_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_27": {
+            "x": -0.300790506632261,
+            "y": -0.3657248115116202,
+            "z": 0.43487436867075907,
+            "Rx": 1.2866970891644942,
+            "Ry": -1.0796670529547583,
+            "Rz": -1.0796670529548151
+        },
+        "TargetPose_27_Speed": 0.062,
+        "TargetPose_27_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_28": {
+            "x": -0.4002560896864943,
+            "y": -0.3832632774559802,
+            "z": 0.43487436867075907,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_28_Speed": 0.062,
+        "TargetPose_28_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_29": {
+            "x": -0.3014044456521058,
+            "y": -0.3622429903100201,
+            "z": 0.43133883476482643,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_29_Speed": 0.062,
+        "TargetPose_29_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_30": {
+            "x": -0.40087002870633953,
+            "y": -0.37978145625438015,
+            "z": 0.43133883476482654,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_30_Speed": 0.062,
+        "TargetPose_30_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_31": {
+            "x": -0.3020183846719508,
+            "y": -0.35876116910842004,
+            "z": 0.4278033008588936,
+            "Rx": 1.2866970891644938,
+            "Ry": -1.0796670529547585,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_31_Speed": 0.062,
+        "TargetPose_31_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_32": {
+            "x": -0.40148396772618433,
+            "y": -0.37629963505277997,
+            "z": 0.42780330085889373,
+            "Rx": 1.2866970891644942,
+            "Ry": -1.0796670529547583,
+            "Rz": -1.0796670529548151
+        },
+        "TargetPose_32_Speed": 0.062,
+        "TargetPose_32_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_33": {
+            "x": -0.3026323236917956,
+            "y": -0.3552793479068198,
+            "z": 0.42426776695296087,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547585,
+            "Rz": -1.0796670529548151
+        },
+        "TargetPose_33_Speed": 0.062,
+        "TargetPose_33_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_34": {
+            "x": -0.40209790674602913,
+            "y": -0.37281781385117996,
+            "z": 0.424267766952961,
+            "Rx": 1.2866970891644938,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_34_Speed": 0.062,
+        "TargetPose_34_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_35": {
+            "x": -0.3032462627116404,
+            "y": -0.35179752670521997,
+            "z": 0.420732233047028,
+            "Rx": 1.2866970891644942,
+            "Ry": -1.0796670529547583,
+            "Rz": -1.0796670529548151
+        },
+        "TargetPose_35_Speed": 0.062,
+        "TargetPose_35_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_36": {
+            "x": -0.4027118457658744,
+            "y": -0.36933599264957956,
+            "z": 0.42073223304702845,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_36_Speed": 0.062,
+        "TargetPose_36_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_37": {
+            "x": -0.3038602017314852,
+            "y": -0.3483157055036195,
+            "z": 0.4171966991410955,
+            "Rx": 1.2866970891644938,
+            "Ry": -1.0796670529547585,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_37_Speed": 0.062,
+        "TargetPose_37_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_38": {
+            "x": -0.40332578478571895,
+            "y": -0.36585417144797977,
+            "z": 0.4171966991410956,
+            "Rx": 1.2866970891644942,
+            "Ry": -1.0796670529547583,
+            "Rz": -1.0796670529548151
+        },
+        "TargetPose_38_Speed": 0.062,
+        "TargetPose_38_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_39": {
+            "x": -0.30447414075133017,
+            "y": -0.34483388430201967,
+            "z": 0.41366116523516255,
+            "Rx": 1.2866970891644938,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_39_Speed": 0.062,
+        "TargetPose_39_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_40": {
+            "x": -0.40393972380556353,
+            "y": -0.3623723502463797,
+            "z": 0.41366116523516266,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547585,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_40_Speed": 0.062,
+        "TargetPose_40_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_41": {
+            "x": -0.3050880797711752,
+            "y": -0.3413520631004196,
+            "z": 0.4101256313292299,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547585,
+            "Rz": -1.0796670529548151
+        },
+        "TargetPose_41_Speed": 0.062,
+        "TargetPose_41_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_42": {
+            "x": -0.404553662825409,
+            "y": -0.3588905290447793,
+            "z": 0.4101256313292298,
+            "Rx": 1.2866970891644942,
+            "Ry": -1.0796670529547585,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_42_Speed": 0.062,
+        "TargetPose_42_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_43": {
+            "x": -0.30570201879102,
+            "y": -0.3378702418988196,
+            "z": 0.4065900974232974,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_43_Speed": 0.062,
+        "TargetPose_43_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_44": {
+            "x": -0.4051676018452536,
+            "y": -0.3554087078431792,
+            "z": 0.40659009742329727,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_44_Speed": 0.062,
+        "TargetPose_44_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_45": {
+            "x": -0.306315957810865,
+            "y": -0.3343884206972191,
+            "z": 0.40305456351736474,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_45_Speed": 0.062,
+        "TargetPose_45_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_46": {
+            "x": -0.4057815408650983,
+            "y": -0.3519268866415791,
+            "z": 0.40305456351736463,
+            "Rx": 1.2866970891644942,
+            "Ry": -1.0796670529547583,
+            "Rz": -1.0796670529548151
+        },
+        "TargetPose_46_Speed": 0.062,
+        "TargetPose_46_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_47": {
+            "x": -0.3069298968307098,
+            "y": -0.3309065994956193,
+            "z": 0.3995190296114316,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547585,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_47_Speed": 0.062,
+        "TargetPose_47_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_48": {
+            "x": -0.4063954798849427,
+            "y": -0.34844506543997933,
+            "z": 0.3995190296114318,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_48_Speed": 0.062,
+        "TargetPose_48_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_49": {
+            "x": -0.3075438358505546,
+            "y": -0.327424778294019,
+            "z": 0.39598349570549896,
+            "Rx": 1.286697089164494,
+            "Ry": -1.0796670529547587,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_49_Speed": 0.062,
+        "TargetPose_49_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    },
+    {
+        "RobotTask": "Unknown",
+        "Tcp_TargetPose_50": {
+            "x": -0.40700941890478814,
+            "y": -0.34496324423837904,
+            "z": 0.39598349570549907,
+            "Rx": 1.2866970891644942,
+            "Ry": -1.0796670529547585,
+            "Rz": -1.0796670529548154
+        },
+        "TargetPose_50_Speed": 0.062,
+        "TargetPose_50_Acceleration": 2.5,
+        "MotionType": "Linear",
+        "GripperCmd": "Grasp"
+    }
+]
